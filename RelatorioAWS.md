@@ -1,7 +1,9 @@
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
 > Data: 17/06/2025
-> Empresa: Abstergo Industries 
+> 
+> Empresa: Abstergo Industries
+> 
 > Responsável: Juarez Goulart 
 
 ## Introdução
@@ -32,9 +34,9 @@ A implementação de ferramentas na empresa Abstergo Industries tem como esperad
 
 ## Anexos
 
-- [Amazon S3] (https://aws.amazon.com/pt/s3/?nc=sn&loc=0)
-- [Amazon RDS] (https://aws.amazon.com/pt/rds/)
-- [Amazon VPC] (https://aws.amazon.com/pt/vpc/)
+- [Amazon S3](https://aws.amazon.com/pt/s3/?nc=sn&loc=0)
+- [Amazon RDS](https://aws.amazon.com/pt/rds/)
+- [Amazon VPC](https://aws.amazon.com/pt/vpc/)
 
 Assinatura do Responsável pelo Projeto:
 
